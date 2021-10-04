@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573628509199",
+    "firebase_url": "https://payment-d7ac9-default-rtdb.firebaseio.com",
+    "project_id": "payment-d7ac9",
+    "storage_bucket": "payment-d7ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573628509199:android:08bbebe714d4292df4877a",
+        "android_client_info": {
+          "package_name": "com.example.booklandpayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573628509199-6qkpl0m3assb76fl2ut84ig1r7tenes3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc4KPpe3nTsmsA8rtDbBPZOENznyiYxWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573628509199-6qkpl0m3assb76fl2ut84ig1r7tenes3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
