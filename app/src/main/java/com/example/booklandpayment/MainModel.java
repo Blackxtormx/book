@@ -13,6 +13,8 @@ public class MainModel {
         this.price = price;
     }
 
+
+
     public String getName() {
         return name;
     }

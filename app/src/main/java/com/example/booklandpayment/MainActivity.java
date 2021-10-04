@@ -31,8 +31,11 @@ public class MainActivity extends AppCompatActivity {
                         .setQuery(FirebaseDatabase.getInstance().getReference().child("payments"), MainModel.class)
                         .build();
 
+
         mainAdepter = new MainAdepter(options);
         recyclerView.setAdapter(mainAdepter);
+
+
 
         floatingActionButton = (FloatingActionButton)findViewById(R.id.floatingActionButton);
         floatingActionButton.setOnClickListener(new View.OnClickListener() {
